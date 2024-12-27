@@ -1,3 +1,3 @@
 ---
-# Treino de animações HTMLL
+# Treino de animações HTML
 ---
